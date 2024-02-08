@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\User\source\repos\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\User\source\repos\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\User\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\User\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\User\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\User\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\User\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.Form2.resources
